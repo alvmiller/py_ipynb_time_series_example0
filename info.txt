@@ -1,0 +1,85 @@
+### time series
+
+# PyCharm
+# Jupyter
+
+# pip install jupyterlab
+# pip install notebook
+
+# sudo apt install jupyter-core
+
+# jupyter lab
+# jupyter notebook
+
+# jupyter lab
+# jupyter notebook main.ipynb
+
+# pip install tensorflow
+# pip install matplotlib
+# pip install seaborn
+# pip install numpy
+# pip install pandas
+# pip install math
+# pip install datetime
+# pip install pydot
+# https://graphviz.gitlab.io/download/
+# winget install graphviz
+
+# pip3 install pandas numpy matplotlib statsmodels
+# pip3 install scikit-learn
+# pip3 install pmdarima
+
+
+#####
+# - https://timeweb.cloud/tutorials/python/prognozirovanie-vremennyh-ryadov-python-3
+# - https://www.tigerdata.com/blog/how-to-work-with-time-series-in-python
+# - https://www.geeksforgeeks.org/data-analysis/time-series-data-visualization-in-python/
+# - https://github.com/gmonaci/ARIMA
+# - https://hostman.com/tutorials/time-series-forecasting-with-arima-in-python-3/
+# - https://www.geo.fu-berlin.de/en/v/soga-py/Advanced-statistics/time-series-analysis/ARIMA-modelling-in-Python/index.html
+# - https://github.com/williewheeler/time-series-demos/blob/master/arima/arima-python.ipynb
+# - https://github.com/williewheeler/time-series-demos/tree/master
+# - https://medium.com/@nomannayeem/time-series-forecasting-with-arima-everything-you-need-to-know-df0aaf580857
+# - https://krython.com/tutorial/python/time-series-forecasting-arima/
+#####
+
+# - https://www.youtube.com/@nfactorialchannel3/videos
+
+# - https://www.tigerdata.com/blog/how-to-work-with-time-series-in-python
+# - https://www.geeksforgeeks.org/data-analysis/time-series-data-visualization-in-python/
+# - https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python
+# - https://medium.com/@nomannayeem/comprehensive-guide-to-time-series-data-analytics-and-forecasting-with-python-2c82de2c8517
+# - https://builtin.com/data-science/time-series-python
+# - https://filippomb.github.io/python-time-series-handbook/notebooks/00/intro.html
+# - https://www.tigerdata.com/learn/time-series-analysis-and-forecasting-with-python
+
+# - https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+# - https://www.influxdata.com/blog/python-ARIMA-tutorial-influxDB/
+# - https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html
+# - https://medium.com/datainc/time-series-analysis-and-forecasting-with-arima-in-python-aa22694b3aaa
+# - https://www.datacamp.com/tutorial/arima
+# - https://github.com/gmonaci/ARIMA
+# - https://developer.ibm.com/tutorials/awb-arima-models-in-python/
+# - https://www.projectpro.io/article/how-to-build-arima-model-in-python/544
+# - https://hostman.com/tutorials/time-series-forecasting-with-arima-in-python-3/
+# - https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+# - https://www.geo.fu-berlin.de/en/v/soga-py/Advanced-statistics/time-series-analysis/ARIMA-modelling-in-Python/index.html
+# - https://medium.com/@sandha.iitr/tuning-arima-for-forecasting-an-easy-approach-in-python-5f40d55184c4
+# - https://www.justintodata.com/arima-models-in-python-time-series-prediction/
+# - https://pypi.org/project/pyramid-arima/
+# - https://github.com/williewheeler/time-series-demos/blob/master/arima/arima-python.ipynb
+# - https://datastud.dev/posts/python-arima-how-to
+# - https://www.kaggle.com/code/redwankarimsony/time-series-forecasting-with-arima
+# - https://github.com/williewheeler/time-series-demos/tree/master
+# - https://medium.com/@nomannayeem/time-series-forecasting-with-arima-everything-you-need-to-know-df0aaf580857
+# - https://otexts.com/fpppy/nbs/09-arima.html
+# - https://people.duke.edu/~rnau/411arim.htm
+# - https://support.minitab.com/en-us/minitab/help-and-how-to/statistical-modeling/time-series/how-to/arima/interpret-the-results/key-results/
+# - https://medium.com/@hazallgultekin/time-series-analysis-and-forecasting-with-arima-8be02ba2665a
+# - https://krython.com/tutorial/python/time-series-forecasting-arima/
+
+# - https://otexts.com/fpp2/arima.html
+# - https://www.geeksforgeeks.org/r-language/model-selection-for-arima/
+# - https://medium.com/@mubarakdaha/understanding-time-series-forecasting-with-arima-59cd7140d6c3
+
+# - python3 ARIMA
